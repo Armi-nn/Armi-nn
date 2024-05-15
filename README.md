@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armi-nn                        
+- 👋 Hi, I’m @Armi-nn                       
 - 👀 I’m interested in React                                       
 - 🌱 I’m currently learning nodejs                                             
 - 💞️ I’m looking to collaborate on Big Companies                                              
