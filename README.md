@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Welcome To My Github Page ;<br>My name Is Maziar And I Intrested In Reactjs<br>
+Welcome To My Github Page ;<br>My name Is Armin And I Intrested In Reactjs<br>
 
 ## 🌐 Socials:
 
